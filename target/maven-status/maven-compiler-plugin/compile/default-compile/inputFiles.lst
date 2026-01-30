@@ -1,0 +1,8 @@
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/Main.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/audio/AudioCapture.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/audio/LiveAudioCapture.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/tui/FrequencyView.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/tui/HeatmapView.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/tui/RenderLoop.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/tui/WaveformProcessor.java
+/data/Projects/Javalyzer/src/main/java/com/example/javalyzer/tui/WaveformView.java
